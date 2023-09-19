@@ -1,0 +1,16 @@
+koreanize_matplotlib
+matplotlib
+numpy
+pandas
+plotly
+prophet
+pykrx
+requests
+scipy
+streamlit
+streamlit_extras
+sympy
+tqdm
+yfinance
+streamlit_chat
+bardapi
